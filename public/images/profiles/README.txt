@@ -1,0 +1,11 @@
+Place your profile images here with the following names:
+- longline.png
+- ovolo.png
+- fascia.png
+- quarter-round.png
+- half-round.png
+- quad.png
+- slotted.png
+- rectangle-downpipe.png
+- round-downpipe.png
+- rebate-fascia.png
